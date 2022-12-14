@@ -41,5 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi467&" alt="vamsi467" /></p>
 
-##Certifications
+### Certifications
+
 <iframe src="https://www.hackerrank.com/certificates/iframe/ea47410a3529"></iframe>
