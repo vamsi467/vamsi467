@@ -45,11 +45,6 @@ I am a Full Stack IT consultant, Author, Speaker & open source tech enthusiast <
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sudheerj&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vamsi467&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudheerj&layout=compact&theme=vision-friendly-dark)](https://github.com/sudheerj/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-**WebSite:**[Sudheerjonna.com](https://sudheerjonna.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi467&layout=compact&theme=vision-friendly-dark)](https://github.com/sudheerj/github-readme-stats)
