@@ -172,93 +172,141 @@ WebRTC | | Git |**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi467&" alt="vamsi467" /></p>
 
 ### Certifications
-
-<div class="passed-certificates-list"><a class="certificate-link passed-certificate passed-certificate--active"
-        data-event-category="HRC Skills" data-event-label="CertificateIcon" data-analytics="CertificateIcon"
-        data-attr1="javascript_basic" data-cd-skill-name="javascript_basic" href="/certificates/ea47410a3529">
-        <div class="certificate certificate-v2">
-            <div class="certificate-container">
-                <h2 class="certificate-heading"><span class="sr-only">Certificate: </span>JavaScript (Basic)</h2><span
-                    class="certificate-heading certificate-heading-green"
-                    aria-hidden="true"><strong>Verified</strong></span>
-            </div>
-        </div>
-    </a><a class="certificate-link passed-certificate" data-event-category="HRC Skills"
-        data-event-label="CertificateIcon" data-analytics="CertificateIcon" data-attr1="sql_basic"
-        data-cd-skill-name="sql_basic" href="/certificates/cf1d375a4bad">
-        <div class="certificate certificate-v2">
-            <div class="folded-corner"
-                style="background-color: rgb(255, 255, 255); box-shadow: rgb(255, 255, 255) 3px -3px 0px 3px, rgba(0, 0, 0, 0.25) -4px 4px 6px;">
-            </div>
-            <div class="certificate-container">
-                <h2 class="certificate-heading"><span class="sr-only">Certificate: </span>SQL (Basic)</h2><span
-                    class="certificate-heading certificate-heading-green"
-                    aria-hidden="true"><strong>Verified</strong></span>
-            </div>
-        </div>
-    </a><a class="certificate-link passed-certificate" data-event-category="HRC Skills"
-        data-event-label="CertificateIcon" data-analytics="CertificateIcon" data-attr1="sql_intermediate"
-        data-cd-skill-name="sql_intermediate" href="/certificates/755ea27aff96">
-        <div class="certificate certificate-v2">
-            <div class="folded-corner"
-                style="background-color: rgb(255, 255, 255); box-shadow: rgb(255, 255, 255) 3px -3px 0px 3px, rgba(0, 0, 0, 0.25) -4px 4px 6px;">
-            </div>
-            <div class="certificate-container">
-                <h2 class="certificate-heading"><span class="sr-only">Certificate: </span>SQL (Intermediate)</h2><span
-                    class="certificate-heading certificate-heading-green"
-                    aria-hidden="true"><strong>Verified</strong></span>
-            </div>
-        </div>
-    </a><a class="certificate-link passed-certificate" data-event-category="HRC Skills"
-        data-event-label="CertificateIcon" data-analytics="CertificateIcon" data-attr1="react_basic"
-        data-cd-skill-name="react_basic" href="/certificates/6ae8ae8ef9c3">
-        <div class="certificate certificate-v2">
-            <div class="folded-corner"
-                style="background-color: rgb(255, 255, 255); box-shadow: rgb(255, 255, 255) 3px -3px 0px 3px, rgba(0, 0, 0, 0.25) -4px 4px 6px;">
-            </div>
-            <div class="certificate-container">
-                <h2 class="certificate-heading"><span class="sr-only">Certificate: </span>React (Basic)</h2><span
-                    class="certificate-heading certificate-heading-green"
-                    aria-hidden="true"><strong>Verified</strong></span>
-            </div>
-        </div>
-    </a><a class="certificate-link passed-certificate" data-event-category="HRC Skills"
-        data-event-label="CertificateIcon" data-analytics="CertificateIcon" data-attr1="angular_basic"
-        data-cd-skill-name="angular_basic" href="/certificates/e93f27e62967">
-        <div class="certificate certificate-v2">
-            <div class="folded-corner"
-                style="background-color: rgb(255, 255, 255); box-shadow: rgb(255, 255, 255) 3px -3px 0px 3px, rgba(0, 0, 0, 0.25) -4px 4px 6px;">
-            </div>
-            <div class="certificate-container">
-                <h2 class="certificate-heading"><span class="sr-only">Certificate: </span>Angular (Basic)</h2><span
-                    class="certificate-heading certificate-heading-green"
-                    aria-hidden="true"><strong>Verified</strong></span>
-            </div>
-        </div>
-    </a><a class="certificate-link passed-certificate" data-event-category="HRC Skills"
-        data-event-label="CertificateIcon" data-analytics="CertificateIcon" data-attr1="angular_intermediate"
-        data-cd-skill-name="angular_intermediate" href="/certificates/5022794bb661">
-        <div class="certificate certificate-v2">
-            <div class="folded-corner"
-                style="background-color: rgb(255, 255, 255); box-shadow: rgb(255, 255, 255) 3px -3px 0px 3px, rgba(0, 0, 0, 0.25) -4px 4px 6px;">
-            </div>
-            <div class="certificate-container">
-                <h2 class="certificate-heading"><span class="sr-only">Certificate: </span>Angular (Intermediate)</h2>
-                <span class="certificate-heading certificate-heading-green"
-                    aria-hidden="true"><strong>Verified</strong></span>
-            </div>
-        </div>
-    </a><a class="certificate-link passed-certificate wider-certificate-name" data-event-category="HRC Skills"
-        data-event-label="CertificateIcon" data-analytics="CertificateIcon" data-attr1="javascript_intermediate"
-        data-cd-skill-name="javascript_intermediate" href="/certificates/4cbb8a966b96">
-        <div class="certificate certificate-v2">
-            <div class="folded-corner"
-                style="background-color: rgb(255, 255, 255); box-shadow: rgb(255, 255, 255) 3px -3px 0px 3px, rgba(0, 0, 0, 0.25) -4px 4px 6px;">
-            </div>
-            <div class="certificate-container">
-                <h2 class="certificate-heading"><span class="sr-only">Certificate: </span>JavaScript (Intermediate)</h2>
-                <span class="certificate-heading certificate-heading-green"
-                    aria-hidden="true"><strong>Verified</strong></span>
-            </div>
-        </div>
+<div class="skills-grid"><a class="verifiable-skill-card is-highlighted" data-analytics="SkillsTestCardViewCertificate"
+        data-attr1="Angular (Basic)" data-event-category="HRC Skills" data-event-label="SkillsTestCardViewCertificate"
+        data-click-event-enabled="true" data-cd-skill-name="Angular (Basic)" popularity_index="0"
+        location="[object Object]" params="[object Object]" router="[object Object]" additionalcontext="[object Object]"
+        metadata="[object Object]" href="/certificates/e93f27e62967">
+        <h3 class="verifiable-skill-card-title"><span class="skill-title">Angular (Basic)</span>
+            <div class="ui-tooltip-wrapper"><span class="skill-info" aria-describedby="tooltip-30"><svg
+                        viewBox="0 0 24 24" width="1em" height="1em" class=" ui-svg-icon" fill="currentColor">
+                        <path
+                            d="M12 1C5.9 1 1 5.9 1 12s4.9 11 11 11 11-4.9 11-11S18.1 1 12 1zm0 20c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9z">
+                        </path>
+                        <path
+                            d="M12 11c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1s1-.4 1-1v-4c0-.6-.4-1-1-1zm.9-3.4c0-.1-.1-.1-.1-.2s-.1-.1-.1-.1c-.3-.3-.7-.4-1.1-.2-.1.1-.2.1-.3.2l-.1.1c0 .1-.1.1-.1.2s0 .1-.1.2V8c0 .3.1.5.3.7.1.1.2.2.3.2.1.1.3.1.4.1h.2c.1 0 .1 0 .2-.1.1 0 .1-.1.2-.1l.1-.1c.2-.2.3-.4.3-.7v-.2c0-.1-.1-.1-.1-.2z">
+                        </path>
+                    </svg></span></div>
+        </h3>
+        <div class="verifiable-skill-card-cta text-link">View Certificate</div><img
+            src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Angular.svg" alt="" role="presentation"
+            class="verifiable-skill-card-logo">
+    </a><a class="verifiable-skill-card is-highlighted" data-analytics="SkillsTestCardViewCertificate"
+        data-attr1="Angular (Intermediate)" data-event-category="HRC Skills"
+        data-event-label="SkillsTestCardViewCertificate" data-click-event-enabled="true"
+        data-cd-skill-name="Angular (Intermediate)" popularity_index="0" location="[object Object]"
+        params="[object Object]" router="[object Object]" additionalcontext="[object Object]" metadata="[object Object]"
+        href="/certificates/5022794bb661">
+        <h3 class="verifiable-skill-card-title"><span class="skill-title">Angular (Intermediate)</span>
+            <div class="ui-tooltip-wrapper"><span class="skill-info" aria-describedby="tooltip-31"><svg
+                        viewBox="0 0 24 24" width="1em" height="1em" class=" ui-svg-icon" fill="currentColor">
+                        <path
+                            d="M12 1C5.9 1 1 5.9 1 12s4.9 11 11 11 11-4.9 11-11S18.1 1 12 1zm0 20c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9z">
+                        </path>
+                        <path
+                            d="M12 11c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1s1-.4 1-1v-4c0-.6-.4-1-1-1zm.9-3.4c0-.1-.1-.1-.1-.2s-.1-.1-.1-.1c-.3-.3-.7-.4-1.1-.2-.1.1-.2.1-.3.2l-.1.1c0 .1-.1.1-.1.2s0 .1-.1.2V8c0 .3.1.5.3.7.1.1.2.2.3.2.1.1.3.1.4.1h.2c.1 0 .1 0 .2-.1.1 0 .1-.1.2-.1l.1-.1c.2-.2.3-.4.3-.7v-.2c0-.1-.1-.1-.1-.2z">
+                        </path>
+                    </svg></span></div>
+        </h3>
+        <div class="verifiable-skill-card-cta text-link">View Certificate</div><img
+            src="https://hrcdn.net/s3_pub/hr-assets/dashboard/Angular.svg" alt="" role="presentation"
+            class="verifiable-skill-card-logo">
+    </a><a class="verifiable-skill-card is-highlighted" data-analytics="SkillsTestCardViewCertificate"
+        data-attr1="JavaScript (Intermediate)" data-event-category="HRC Skills"
+        data-event-label="SkillsTestCardViewCertificate" data-click-event-enabled="true"
+        data-cd-skill-name="JavaScript (Intermediate)" popularity_index="0" location="[object Object]"
+        params="[object Object]" router="[object Object]" additionalcontext="[object Object]" metadata="[object Object]"
+        href="/certificates/4cbb8a966b96">
+        <h3 class="verifiable-skill-card-title"><span class="skill-title">JavaScript (Intermediate)</span>
+            <div class="ui-tooltip-wrapper"><span class="skill-info" aria-describedby="tooltip-32"><svg
+                        viewBox="0 0 24 24" width="1em" height="1em" class=" ui-svg-icon" fill="currentColor">
+                        <path
+                            d="M12 1C5.9 1 1 5.9 1 12s4.9 11 11 11 11-4.9 11-11S18.1 1 12 1zm0 20c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9z">
+                        </path>
+                        <path
+                            d="M12 11c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1s1-.4 1-1v-4c0-.6-.4-1-1-1zm.9-3.4c0-.1-.1-.1-.1-.2s-.1-.1-.1-.1c-.3-.3-.7-.4-1.1-.2-.1.1-.2.1-.3.2l-.1.1c0 .1-.1.1-.1.2s0 .1-.1.2V8c0 .3.1.5.3.7.1.1.2.2.3.2.1.1.3.1.4.1h.2c.1 0 .1 0 .2-.1.1 0 .1-.1.2-.1l.1-.1c.2-.2.3-.4.3-.7v-.2c0-.1-.1-.1-.1-.2z">
+                        </path>
+                    </svg></span></div>
+        </h3>
+        <div class="verifiable-skill-card-cta text-link">View Certificate</div><img
+            src="https://hrcdn.net/s3_pub/hr-assets/dashboard/JavaScript.svg" alt="" role="presentation"
+            class="verifiable-skill-card-logo">
+    </a><a class="verifiable-skill-card is-highlighted" data-analytics="SkillsTestCardViewCertificate"
+        data-attr1="JavaScript (Basic)" data-event-category="HRC Skills"
+        data-event-label="SkillsTestCardViewCertificate" data-click-event-enabled="true"
+        data-cd-skill-name="JavaScript (Basic)" popularity_index="0" location="[object Object]" params="[object Object]"
+        router="[object Object]" additionalcontext="[object Object]" metadata="[object Object]"
+        href="/certificates/ea47410a3529">
+        <h3 class="verifiable-skill-card-title"><span class="skill-title">JavaScript (Basic)</span>
+            <div class="ui-tooltip-wrapper"><span class="skill-info" aria-describedby="tooltip-47"><svg
+                        viewBox="0 0 24 24" width="1em" height="1em" class=" ui-svg-icon" fill="currentColor">
+                        <path
+                            d="M12 1C5.9 1 1 5.9 1 12s4.9 11 11 11 11-4.9 11-11S18.1 1 12 1zm0 20c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9z">
+                        </path>
+                        <path
+                            d="M12 11c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1s1-.4 1-1v-4c0-.6-.4-1-1-1zm.9-3.4c0-.1-.1-.1-.1-.2s-.1-.1-.1-.1c-.3-.3-.7-.4-1.1-.2-.1.1-.2.1-.3.2l-.1.1c0 .1-.1.1-.1.2s0 .1-.1.2V8c0 .3.1.5.3.7.1.1.2.2.3.2.1.1.3.1.4.1h.2c.1 0 .1 0 .2-.1.1 0 .1-.1.2-.1l.1-.1c.2-.2.3-.4.3-.7v-.2c0-.1-.1-.1-.1-.2z">
+                        </path>
+                    </svg></span></div>
+        </h3>
+        <div class="verifiable-skill-card-cta text-link">View Certificate</div><img
+            src="https://hrcdn.net/s3_pub/hr-assets/dashboard/JavaScript.svg" alt="" role="presentation"
+            class="verifiable-skill-card-logo">
+    </a><a class="verifiable-skill-card is-highlighted" data-analytics="SkillsTestCardViewCertificate"
+        data-attr1="React (Basic)" data-event-category="HRC Skills" data-event-label="SkillsTestCardViewCertificate"
+        data-click-event-enabled="true" data-cd-skill-name="React (Basic)" popularity_index="0"
+        location="[object Object]" params="[object Object]" router="[object Object]" additionalcontext="[object Object]"
+        metadata="[object Object]" href="/certificates/6ae8ae8ef9c3">
+        <h3 class="verifiable-skill-card-title"><span class="skill-title">React (Basic)</span>
+            <div class="ui-tooltip-wrapper"><span class="skill-info" aria-describedby="tooltip-48"><svg
+                        viewBox="0 0 24 24" width="1em" height="1em" class=" ui-svg-icon" fill="currentColor">
+                        <path
+                            d="M12 1C5.9 1 1 5.9 1 12s4.9 11 11 11 11-4.9 11-11S18.1 1 12 1zm0 20c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9z">
+                        </path>
+                        <path
+                            d="M12 11c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1s1-.4 1-1v-4c0-.6-.4-1-1-1zm.9-3.4c0-.1-.1-.1-.1-.2s-.1-.1-.1-.1c-.3-.3-.7-.4-1.1-.2-.1.1-.2.1-.3.2l-.1.1c0 .1-.1.1-.1.2s0 .1-.1.2V8c0 .3.1.5.3.7.1.1.2.2.3.2.1.1.3.1.4.1h.2c.1 0 .1 0 .2-.1.1 0 .1-.1.2-.1l.1-.1c.2-.2.3-.4.3-.7v-.2c0-.1-.1-.1-.1-.2z">
+                        </path>
+                    </svg></span></div>
+        </h3>
+        <div class="verifiable-skill-card-cta text-link">View Certificate</div><img
+            src="https://hrcdn.net/s3_pub/hr-assets/dashboard/React.svg" alt="" role="presentation"
+            class="verifiable-skill-card-logo">
+    </a><a class="verifiable-skill-card is-highlighted" data-analytics="SkillsTestCardViewCertificate"
+        data-attr1="SQL (Basic)" data-event-category="HRC Skills" data-event-label="SkillsTestCardViewCertificate"
+        data-click-event-enabled="true" data-cd-skill-name="SQL (Basic)" popularity_index="0" location="[object Object]"
+        params="[object Object]" router="[object Object]" additionalcontext="[object Object]" metadata="[object Object]"
+        href="/certificates/cf1d375a4bad">
+        <h3 class="verifiable-skill-card-title"><span class="skill-title">SQL (Basic)</span>
+            <div class="ui-tooltip-wrapper"><span class="skill-info" aria-describedby="tooltip-49"><svg
+                        viewBox="0 0 24 24" width="1em" height="1em" class=" ui-svg-icon" fill="currentColor">
+                        <path
+                            d="M12 1C5.9 1 1 5.9 1 12s4.9 11 11 11 11-4.9 11-11S18.1 1 12 1zm0 20c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9z">
+                        </path>
+                        <path
+                            d="M12 11c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1s1-.4 1-1v-4c0-.6-.4-1-1-1zm.9-3.4c0-.1-.1-.1-.1-.2s-.1-.1-.1-.1c-.3-.3-.7-.4-1.1-.2-.1.1-.2.1-.3.2l-.1.1c0 .1-.1.1-.1.2s0 .1-.1.2V8c0 .3.1.5.3.7.1.1.2.2.3.2.1.1.3.1.4.1h.2c.1 0 .1 0 .2-.1.1 0 .1-.1.2-.1l.1-.1c.2-.2.3-.4.3-.7v-.2c0-.1-.1-.1-.1-.2z">
+                        </path>
+                    </svg></span></div>
+        </h3>
+        <div class="verifiable-skill-card-cta text-link">View Certificate</div><img
+            src="https://hr-assets.s3.amazonaws.com/dashboard/SQL.svg" alt="" role="presentation"
+            class="verifiable-skill-card-logo">
+    </a><a class="verifiable-skill-card is-highlighted" data-analytics="SkillsTestCardViewCertificate"
+        data-attr1="SQL (Intermediate)" data-event-category="HRC Skills"
+        data-event-label="SkillsTestCardViewCertificate" data-click-event-enabled="true"
+        data-cd-skill-name="SQL (Intermediate)" popularity_index="0" location="[object Object]" params="[object Object]"
+        router="[object Object]" additionalcontext="[object Object]" metadata="[object Object]"
+        href="/certificates/755ea27aff96">
+        <h3 class="verifiable-skill-card-title"><span class="skill-title">SQL (Intermediate)</span>
+            <div class="ui-tooltip-wrapper"><span class="skill-info" aria-describedby="tooltip-50"><svg
+                        viewBox="0 0 24 24" width="1em" height="1em" class=" ui-svg-icon" fill="currentColor">
+                        <path
+                            d="M12 1C5.9 1 1 5.9 1 12s4.9 11 11 11 11-4.9 11-11S18.1 1 12 1zm0 20c-5 0-9-4-9-9s4-9 9-9 9 4 9 9-4 9-9 9z">
+                        </path>
+                        <path
+                            d="M12 11c-.6 0-1 .4-1 1v4c0 .6.4 1 1 1s1-.4 1-1v-4c0-.6-.4-1-1-1zm.9-3.4c0-.1-.1-.1-.1-.2s-.1-.1-.1-.1c-.3-.3-.7-.4-1.1-.2-.1.1-.2.1-.3.2l-.1.1c0 .1-.1.1-.1.2s0 .1-.1.2V8c0 .3.1.5.3.7.1.1.2.2.3.2.1.1.3.1.4.1h.2c.1 0 .1 0 .2-.1.1 0 .1-.1.2-.1l.1-.1c.2-.2.3-.4.3-.7v-.2c0-.1-.1-.1-.1-.2z">
+                        </path>
+                    </svg></span></div>
+        </h3>
+        <div class="verifiable-skill-card-cta text-link">View Certificate</div><img
+            src="https://hr-assets.s3.amazonaws.com/dashboard/SQL.svg" alt="" role="presentation"
+            class="verifiable-skill-card-logo">
     </a></div>
