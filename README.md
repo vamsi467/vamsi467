@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vamsi Ram Nagothi</h1>
-<h3 align="center">A passionate engineer, tech enthusiast, Author and Speaker from Vijayawada India</h3>
+<h3 align="center">A passionate Engineer, Tech Enthusiast, Author and Speaker from Vijayawada India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsi467&label=Profile%20views&color=0e75b6&style=flat"
         alt="vamsi467" /> </p>
