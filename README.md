@@ -32,7 +32,7 @@ WebRTC | | Git |**
     <a href="https://twitter.com/vamsi467" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="vamsi467" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/vamsi467" target="blank"><img align="center"
+    <a href="https://linkedin.com/in/vamsi-ram-nagothi-16080b112/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="vamsi467" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/10794056" target="blank"><img align="center"
