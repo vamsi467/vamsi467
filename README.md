@@ -51,8 +51,8 @@ WebRTC | | Git |**
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://img.shields.io/badge/test-test-informational?style=flat&logo=500px&logoColor=white&color=2bbc8a"
-    alt="vamsi467" />
+<!-- <img src="https://img.shields.io/badge/test-test-informational?style=flat&logo=500px&logoColor=white&color=2bbc8a"
+    alt="vamsi467" /> -->
 <p align="left"> <a href="https://www.11ty.dev/" target="_blank" rel="noreferrer"> <img
             src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/f4c85cce5790758286b8f155ef9a177710b995df/11ty.svg"
             alt="11ty" width="40" height="40" /> </a> <a href="https://angular.io" target="_blank" rel="noreferrer">
