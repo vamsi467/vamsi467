@@ -24,6 +24,7 @@ WebRTC | | Git |**
 <!-- BLOG-POST-LIST:START -->
 <ol>
         <li><a href="https://medium.com/@vamsi467/backend-programming-for-a-javascript-developers-ec92cfa8a20d">Introduction to Programming Language Comparison: Setting the Scene with JavaScript</a></li>
+        <li><a href="https://medium.com/@vamsi467/scripting-the-web-a-deep-dive-into-php-and-javascript-differences-2b4914c95e10">Scripting the Web: A Deep Dive into PHP and JavaScript Differences</a></li>
 </ol>
 <!-- BLOG-POST-LIST:END -->
 
