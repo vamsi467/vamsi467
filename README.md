@@ -23,7 +23,7 @@ WebRTC | | Git |**
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <ol>
-        <li>[Introduction to Programming Language Comparison: Setting the Scene with JavaScript](https://medium.com/@vamsi467/backend-programming-for-a-javascript-developers-ec92cfa8a20d)</li>
+        <li><a href="https://medium.com/@vamsi467/backend-programming-for-a-javascript-developers-ec92cfa8a20d">Introduction to Programming Language Comparison: Setting the Scene with JavaScript</a></li>
 </ol>
 <!-- BLOG-POST-LIST:END -->
 
