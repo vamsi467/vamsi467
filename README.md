@@ -11,12 +11,12 @@
             src="https://img.shields.io/twitter/follow/vamsi467?logo=twitter&style=for-the-badge" alt="vamsi467" /></a>
 </p>
 
-- 🔭 I’m currently working on [wurkr](https://app.wurkr.io/)
+- 🔭 I’m currently working on [smartworking](https://smartworking.io/)
 
 - 🌱 I’m currently learning **Go | Docker | AWS | System design**
 
-- 💬 Ask me about **Vue JS | Angular 2+ | React JS | Svelte JS| React Native | Micro Front Ends | Node JS | GraphQL |
-WebRTC | | Git |**
+- 💬 Ask me about **Vue JS | Angular 2+ | React JS | Svelte JS | Playwright | React Native | Micro Front Ends | Node JS | GraphQL |
+WebRTC | Git |**
 
 - 📫 How to reach me **vamsiramnagothi@gmail.com**
 
