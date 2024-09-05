@@ -18,7 +18,7 @@
 - 💬 Ask me about **Vue JS | Angular 2+ | React JS | Svelte JS | Playwright | React Native | Micro Front Ends | Node JS | GraphQL |
 WebRTC | Git |**
 
-- 📫 How to reach me **vamsiramnagothi@gmail.com**
+- 📫 reach me at **vamsiramnagothi@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
